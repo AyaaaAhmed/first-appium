@@ -1,0 +1,1 @@
+{"uuid":"c15f658c-0ac1-4c24-8292-5416fad8cde1","name":"myFirstAppuim.FloatingNumberTest","children":["9d8fe67b-4662-4da5-aa16-d7528a7ddd87"],"befores":[{"name":"setCab","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1654029735479,"stop":1654029762676}],"afters":[],"links":[],"start":1654029735423,"stop":1654029764959}
